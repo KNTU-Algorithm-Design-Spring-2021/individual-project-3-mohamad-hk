@@ -64,7 +64,7 @@ public class FireTruck {
         int number = sc.nextInt();
         int counter = 1;
 
-        for (int i = 0; i < 10; i++) {
+
             FireTruck g = new FireTruck();
             int v1, v2;
             v1 = sc.nextInt();
@@ -80,4 +80,3 @@ public class FireTruck {
             counter++;
         }
     }
-}
